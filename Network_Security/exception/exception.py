@@ -1,5 +1,5 @@
 import sys
-from src.logger import logging # 👈 import the logger from logger.py
+from Network_Security.logging.logger import logging # 👈 import the logger from logger.py
 
 def Error_message_detail(error, error_detail: sys):
     _, _, exc_tb = error_detail.exc_info()
