@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+Artifacts/
+final_model/
+
 
 # Distribution / packaging
 .Python
